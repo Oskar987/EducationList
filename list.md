@@ -1,6 +1,6 @@
 ###My private book list
 ####PLAN
-* Startup manual
+* Startup owner's manual by steve blank
 
 ####IN PROGRESS
 * Find the idea, by Genrich Altshuller
