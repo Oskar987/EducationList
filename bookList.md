@@ -133,6 +133,9 @@
 
 ####IN PROGRESS
 * Find the idea, by Genrich Altshuller
+* The Object-Oriented Thought Process (4th Edition) (Developer's Library) 4th Edition, by Matt Weisfeld
+* * Клиенты на всю жизнь
+
 
 ####DONE
 * Geniuses and outsiders , by Gladuell M.
