@@ -138,5 +138,8 @@
 
 
 ####DONE
+* The money, Adam Tapper
+* Debt - first five thousands years
+* Digital gold, Nataniel popper
 * Geniuses and outsiders , by Gladuell M.
 * Lean startup, by Erick Ries
